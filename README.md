@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Avishek.<br>
-        Currently learning to walk in Data Analytics without falling on my bottom.<br>
+        Currently learning to walk in Data Analytics 📊 without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/avishek-choudhary">
@@ -54,13 +54,18 @@
 </details>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Open Source Project
+- 🤔 I’m looking for help with getting a job in Data Analytics
+- 💬 Ask me about Data Analysis
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/avishek-choudhary">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+  <a href="https://wa.me/9330280896" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="20" alt="whatsapp logo"  />
+  </a> <a href="https://mail.google.com/mail/u/0/avishekchoudhary.09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
+- ⚡ Fun fact: Common sense is not so common 😂
 
 
 <!-- ### Hi there 👋 -->
