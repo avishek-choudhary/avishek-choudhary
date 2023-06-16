@@ -53,12 +53,6 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/avishek09">
-    <img src="https://komarev.com/ghpvc/?username=avishek09&color=blue&style=flat)" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
