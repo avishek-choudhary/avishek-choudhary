@@ -57,7 +57,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with getting a job in Data Analytics
-- 💬 Ask me about Data Analysis
+- 💬 Ask me about Data Science 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/avishek-choudhary">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
