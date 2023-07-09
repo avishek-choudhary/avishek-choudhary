@@ -6,7 +6,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Avishek.<br>
-        Currently learning to walk in Data Analytics 📊 without falling on my bottom.<br>
+        Currently learning to walk in Data Science 📊 without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/avishek-choudhary">
