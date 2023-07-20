@@ -56,8 +56,8 @@
 </p>
 </details>
 
-- 🔭 I’m currently working on <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis">Credit Card Spend Analysis</a>
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis">Consumer Credit Card Spend Analysis</a>
+- 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with getting a job in Data Analytics
 - 💬 Ask me about Data Science 
