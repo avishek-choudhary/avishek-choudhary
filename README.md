@@ -32,11 +32,19 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/avishek09)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/avishek09)
 
+### Data Visualization
+[![POWER BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi)](https://github.com/avishek09)
+[![TABLEAU](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/avishek09)
+
 ### Graphics
 [![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/avishek09)
 [![ADOBE LIGHTROOM](https://img.shields.io/badge/Adobe%20Lightroom-black?style=for-the-badge&logo=Adobe%20Lightroom)](https://github.com/avishek09)
 [![CANVA](https://img.shields.io/badge/Canva-black?&style=for-the-badge&logo=Canva)](https://github.com/avishek09)
 [![FIGMA](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://github.com/avishek09)
+
+### IDE
+[![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/avishek09)
+[![JUPYTER](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/avishek09)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/avishek09)
