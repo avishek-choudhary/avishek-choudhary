@@ -33,7 +33,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/avishek09)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/avishek09)
 
-### Database
+### Databases
 [![MY SQL](https://img.shields.io/badge/My%20SQL-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
 [![POSTGRESQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/avishek09)
 
@@ -47,9 +47,12 @@
 [![CANVA](https://img.shields.io/badge/Canva-black?&style=for-the-badge&logo=Canva)](https://github.com/avishek09)
 [![FIGMA](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://github.com/avishek09)
 
-### IDE
-[![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/avishek09)
-[![JUPYTER](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/avishek09)
+### IDEs/Editors
+[![VS CODE](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/avishek09)
+[![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/avishek09)
+[![REPLIT](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=Replit)](https://github.com/avishek09)
+[![ATOM](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=atom)](https://github.com/avishek09)
+[![SUBLIME TEXT](https://img.shields.io/badge/sublime_text-black?style=for-the-badge&logo=sublime-text)](https://github.com/avishek09)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/avishek09)
