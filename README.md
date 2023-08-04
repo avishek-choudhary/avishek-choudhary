@@ -68,16 +68,16 @@
 </p>
 </details>
 
-- 🔭 I’m currently working on <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis">Consumer Credit Card Spend Analysis</a>
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Open Source Project
-- 🤔 I’m looking for help with getting a job in Data Analytics
-- 💬 Ask me about Data Science 
+- 🔭 I’m currently working on: <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis">Consumer Credit Card Spend Analysis</a>
+- 🌱 I’m currently learning: <b><i>Python</i></b> 
+- 👯 I’m looking to collaborate on <b><i>Open Source Project</i></b>
+- 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
+- 💬 Ask me about <b><i>Data Science</i></b> 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/avishek-choudhary">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://mail.google.com/mail/u/0/avishekchoudhary.09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"/>
 - ⚡ Fun fact: Common sense is not so common 😂
 
 
