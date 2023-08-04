@@ -21,6 +21,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/avishek09)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/avishek09)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/avishek09)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/avishek09)
@@ -32,11 +33,15 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/avishek09)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/avishek09)
 
+### Database
+[![MY SQL](https://img.shields.io/badge/My%20SQL-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
+[![POSTGRESQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/avishek09)
+
 ### Data Visualization
 [![POWER BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi)](https://github.com/avishek09)
 [![TABLEAU](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/avishek09)
 
-### Graphics
+### Design
 [![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/avishek09)
 [![ADOBE LIGHTROOM](https://img.shields.io/badge/Adobe%20Lightroom-black?style=for-the-badge&logo=Adobe%20Lightroom)](https://github.com/avishek09)
 [![CANVA](https://img.shields.io/badge/Canva-black?&style=for-the-badge&logo=Canva)](https://github.com/avishek09)
