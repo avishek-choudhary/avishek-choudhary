@@ -54,9 +54,16 @@
 [![ATOM](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=atom)](https://github.com/avishek09)
 [![SUBLIME TEXT](https://img.shields.io/badge/sublime_text-black?style=for-the-badge&logo=sublime-text)](https://github.com/avishek09)
 
+### Office Tools
+[![MICROSOFT OFFICE](https://img.shields.io/badge/microsoft%20office-black?style=for-the-badge&logo=microsoft%20office&logoColor=darkorange)](https://github.com/avishek09)
+[![LIBRE OFFICE](https://img.shields.io/badge/libre_office-black?style=for-the-badge&logo=libreoffice)](https://github.com/avishek09)
+[![GOOGLE DOCS](https://img.shields.io/badge/google%20docs-black?style=for-the-badge&logo=googledocs)](https://github.com/avishek09)
+[![GOOGLE SHEETS](https://img.shields.io/badge/google%20sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/avishek09)
+[![GOOGLE SLIDES](https://img.shields.io/badge/google%20slides-black?style=for-the-badge&logo=googleslides)](https://github.com/avishek09)
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/avishek09)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/avishek09)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)](https://github.com/avishek09)
 
 <details>
 <p align="center">
