@@ -91,7 +91,7 @@
 </p>
 </details>
 
-- 🔭 I’m currently working on: <a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis">Consumer Credit Card Spend Analysis</a>
+- 🔭 I’m currently working on: <i><a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis">Consumer Credit Card Spend Analysis</a></i>
 - 🌱 I’m currently learning: <b><i>Python</i></b> 
 - 👯 I’m looking to collaborate on <b><i>Open Source Project</i></b>
 - 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
@@ -99,9 +99,12 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/avishek-choudhary">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <!--<a href="https://mail.google.com/mail/u/0/avishekchoudhary.09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"/>-->
     <a href="https://mail.google.com/mail/u/0/avishekchoudhary.09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"/>
-- ⚡ Fun fact: <i>Common sense is not so common</i> 😂
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+- ⚡ Fun fact: <strong><i>Common sense is not so common</i></strong> 😂
 
 
 <!-- ### Hi there 👋 -->
