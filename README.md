@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/avishekc09">
-        <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
     </a>
 </p>
 
@@ -68,8 +68,6 @@
 [![UDEMY](https://img.shields.io/badge/udemy-black?style=for-the-badge&logo=udemy)](https://github.com/avishek09)
 [![HACKERRANK](https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank)](https://github.com/avishek09)
 [![SOLO LEARN](https://img.shields.io/badge/sololearn-black?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)
-[![SOLO LEARN](https://img.shields.io/badge/sololearn-grey?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)
-[![SOLO LEARN](https://img.shields.io/badge/sololearn-white?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/avishek09)
