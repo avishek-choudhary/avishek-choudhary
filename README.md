@@ -54,9 +54,10 @@
 [![REPLIT](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=Replit)](https://github.com/avishek09)
 [![ATOM](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=atom)](https://github.com/avishek09)
 [![SUBLIME TEXT](https://img.shields.io/badge/sublime_text-black?style=for-the-badge&logo=sublime-text)](https://github.com/avishek09)
+[![CODEPEN](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen)](https://github.com/avishek09)
 
 ### Office Tools
-[![MICROSOFT OFFICE](https://img.shields.io/badge/microsoft%20office-black?style=for-the-badge&logo=microsoft%20office&logoColor=darkorange)](https://github.com/avishek09)
+[![MICROSOFT OFFICE](https://img.shields.io/badge/microsoft%20office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)](https://github.com/avishek09)
 [![LIBRE OFFICE](https://img.shields.io/badge/libre_office-black?style=for-the-badge&logo=libreoffice)](https://github.com/avishek09)
 [![GOOGLE DOCS](https://custom-icon-badges.demolab.com/badge/google_docs-black?style=for-the-badge&logo=google--docs)](https://github.com/avishek09)
 [![GOOGLE SHEETS](https://img.shields.io/badge/google%20sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/avishek09)
