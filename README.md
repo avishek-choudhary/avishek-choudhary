@@ -62,6 +62,7 @@
 [![GOOGLE DOCS](https://custom-icon-badges.demolab.com/badge/google_docs-black?style=for-the-badge&logo=google--docs)](https://github.com/avishek09)
 [![GOOGLE SHEETS](https://img.shields.io/badge/google%20sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/avishek09)
 [![GOOGLE SLIDES](https://custom-icon-badges.demolab.com/badge/google%20slides-black?style=for-the-badge&logo=googleslides)](https://github.com/avishek09)
+[![MICROSOFT OUTLOOK](https://img.shields.io/badge/microsoft%20outlook-black?style=for-the-badge&logo=microsoftoutlook&logoColor=blue)](https://github.com/avishek09)
 
 ### Education
 [![COURSERA](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://github.com/avishek09)
