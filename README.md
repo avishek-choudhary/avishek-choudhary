@@ -21,6 +21,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/avishek09)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/avishek09)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
+[![SHELL SCRIPT](https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash)](https://github.com/avishek09)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/avishek09)
 
 ### ML/DL
