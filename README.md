@@ -61,9 +61,19 @@
 [![GOOGLE SHEETS](https://img.shields.io/badge/google%20sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/avishek09)
 [![GOOGLE SLIDES](https://img.shields.io/badge/google%20slides-black?style=for-the-badge&logo=googleslides)](https://github.com/avishek09)
 
+### Education
+[![COURSERA](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://github.com/avishek09)
+[![FREE CODE CAMP](https://img.shields.io/badge/free_code_camp-black?style=for-the-badge&logo=freecodecamp)](https://github.com/avishek09)
+[![KHAN ACADEMY](https://img.shields.io/badge/khan_academy-black?style=for-the-badge&logo=khanacademy)](https://github.com/avishek09)
+[![UDEMY](https://img.shields.io/badge/udemy-black?style=for-the-badge&logo=udemy)](https://github.com/avishek09)
+[![HACKERRANK](https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank)](https://github.com/avishek09)
+[![SOLO LEARN](https://img.shields.io/badge/sololearn-black?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)
+[![SOLO LEARN](https://img.shields.io/badge/sololearn-grey?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)
+[![SOLO LEARN](https://img.shields.io/badge/sololearn-white?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/avishek09)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)](https://github.com/avishek09)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/avishek09)
 
 <details>
 <p align="center">
