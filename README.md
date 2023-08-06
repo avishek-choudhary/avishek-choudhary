@@ -7,10 +7,10 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/avishek-choudhary">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/avishekc09">
-        <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
 </p>
 
