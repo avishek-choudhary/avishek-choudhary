@@ -41,7 +41,7 @@
 
 ### Data Visualization
 [![POWER BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi)](https://github.com/avishek09)
-[![TABLEAU](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/avishek09)
+[![TABLEAU](https://custom-icon-badges.demolab.com/badge/Tableau-black?style=for-the-badge&logo=tableaulogo)](https://github.com/avishek09)
 
 ### Design
 [![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/avishek09)
