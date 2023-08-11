@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! 👋</h1>
+<h1 align="center">Hi, guys! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" /></h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
@@ -11,7 +11,8 @@
     </a>
     <a href="https://www.kaggle.com/avishekc09">
         <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a>
+    </a><br>
+      <!--<img src="https://komarev.com/ghpvc/?username=avishek09 &label=Profile%20views&color=0e75b6&style=flat" alt="Avishek'sProfileViews">-->
 </p>
 
 ### Languages
