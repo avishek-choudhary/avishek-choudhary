@@ -21,7 +21,7 @@
 [![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/avishek09)
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)](https://github.com/avishek09)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/avishek09)
-[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-black?style=for-the-badge&logo=database)](https://github.com/avishek09)
 [![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash)](https://github.com/avishek09)
 [![MARKDOWN](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown)](https://github.com/avishek09)
 
@@ -95,7 +95,7 @@
 </p>
 </details>
 
-- 🔭 I’m currently working on: <i><a href="https://github.com/avishek09/Consumer-Credit-Card-Spend-Analysis">Consumer Credit Card Spend Analysis</a></i>
+- 🔭 I’m currently working on: <i><a href="https://github.com/avishek09/Zoom-Electric">Zoom EV Sales Analysis</a></i>
 - 🌱 I’m currently learning: <b><i>Python</i></b> 
 - 👯 I’m looking to collaborate on <b><i>Open Source Project</i></b>
 - 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
