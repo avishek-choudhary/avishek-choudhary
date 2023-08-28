@@ -90,7 +90,7 @@
   </a>
   <a href="https://github.com/avishek-choudhary">
     <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek-choudhary&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /-->
-      <!--img src="https://github-readme-stats.vercel.app/api?username=avishek-choudhary&show_icons=true&theme=transparent"/-->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut&hide=jupyter%20notebook&theme=transparent&hide_border=true"/>
   </a>
 </p>
 </details>
