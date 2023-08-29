@@ -70,6 +70,7 @@
 [![FREE CODE CAMP](https://img.shields.io/badge/free_Code_Camp-black?style=for-the-badge&logo=freecodecamp)](https://github.com/avishek09)
 [![KHAN ACADEMY](https://img.shields.io/badge/Khan_Academy-black?style=for-the-badge&logo=khanacademy)](https://github.com/avishek09)
 [![UDEMY](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy)](https://github.com/avishek09)
+[![DATA CAMP](https://img.shields.io/badge/data_camp-black?style=for-the-badge&logo=datacamp)](https://github.com/avishek09)
 [![HACKERRANK](https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank)](https://github.com/avishek09)
 [![SOLO LEARN](https://img.shields.io/badge/Sololearn-black?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)
 
