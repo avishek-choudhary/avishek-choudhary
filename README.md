@@ -6,6 +6,9 @@
         Currently learning to walk in Data Science 📊 without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
+    <a href="https://avishek-choudhary.github.io/portfolio.html">    
+        <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=rss" alt="Portfolio">
+    </a>
     <a href="https://www.linkedin.com/in/avishek-choudhary">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn">
     </a>
