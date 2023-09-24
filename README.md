@@ -31,8 +31,9 @@
 ### ML/DL
 [![NUMPY](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy)](https://github.com/avishek09)
 [![PANDAS](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)](https://github.com/avishek09)
-[![MATPLOTLIB](https://custom-icon-badges.demolab.com/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/avishek09)
-[![SEABORN](https://custom-icon-badges.demolab.com/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/avishek09)
+[![SCIKIT LEARN](https://custom-icon-badges.demolab.com/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit)](https://github.com/avishek09)
+[![TENSOR FLOW](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/avishek09)
+[![KERAS](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/avishek09)
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/avishek09)
@@ -42,9 +43,11 @@
 [![MYSQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
 [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/avishek09)
 
-### Data Visualization
+### Visualization
 [![POWER BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=powerbi)](https://github.com/avishek09)
 [![TABLEAU](https://custom-icon-badges.demolab.com/badge/Tableau-black?style=for-the-badge&logo=tableaulogo)](https://github.com/avishek09)
+[![MATPLOTLIB](https://custom-icon-badges.demolab.com/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/avishek09)
+[![SEABORN](https://custom-icon-badges.demolab.com/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/avishek09)
 
 ### Design
 [![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/avishek09)
@@ -55,6 +58,7 @@
 ### IDEs/Editors
 [![VS CODE](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/avishek09)
 [![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/avishek09)
+[![GOOGLE COLAB](https://img.shields.io/badge/Google_Colab-black?&style=for-the-badge&logo=Google-Colab)](https://github.com/avishek09)
 [![REPLIT](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=Replit)](https://github.com/avishek09)
 [![ATOM](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=atom)](https://github.com/avishek09)
 [![SUBLIME TEXT](https://img.shields.io/badge/Sublime_Text-black?style=for-the-badge&logo=sublime-text)](https://github.com/avishek09)
