@@ -97,12 +97,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avishek-choudhary&theme=transparent" />
   </a>
   <a href="https://github.com/avishek-choudhary">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut&hide=&theme=transparent&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut-vertical&hide=&theme=transparent&hide_border=true"/>
   </a>
 </p>
 </details>
 
-- 🔭 I’m currently working on: <i><a href="https://github.com/avishek09/Zoom-Electric">Zoom EV Sales Analysis</a></i>
+- 🔭 I’m currently working on: <i><a href="https://github.com/avishek-choudhary/Zoom-Electric">Zoom EV Sales Analysis</a></i>
 - 🌱 I’m currently learning: <b><i>Python</i></b> 
 - 👯 I’m looking to collaborate on <b><i>Open Source Project</i></b>
 - 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
