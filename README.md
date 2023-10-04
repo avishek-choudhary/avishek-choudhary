@@ -90,24 +90,25 @@
   <a href="https://github.com/avishek-choudhary">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avishek-choudhary&theme=transparent" />
   </a>
+</br>
   <a href="https://github.com/avishek-choudhary">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek-choudhary&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=avishek-choudhary&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/avishek-choudhary">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avishek-choudhary&theme=transparent" />
   </a>
     </br>
   <a href="https://github.com/avishek-choudhary">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut-vertical&lang_count=8&html_color=orange&sql_color=blue&hide=&theme=transparent&hide_border=true&card_width=338&size_weight=0&count_weight=1"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut&langs_count=8&html_color=orange&sql_color=blue&hide=&theme=transparent&hide_border=true&card_width=338&size_weight=0.5&count_weight=0.5" />
   </a>
 </p>
 </details>
 
 - 🔭 I’m currently working on: <i><a href="https://github.com/avishek-choudhary/Zoom-Electric">Zoom EV Sales Analysis</a></i>
-- 🌱 I’m currently learning: <b><i>Python</i></b> 
-- 👯 I’m looking to collaborate on <b><i>Open Source Project</i></b>
-- 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
-- 💬 Ask me about <b><i>Data Science</i></b> 
+- 🌱 I’m currently learning: <b><i>ML/DL</i></b> 
+- 👯 I’m looking to collaborate on: <b><i>Open Source Project</i></b>
+- 🤔 I’m looking for help with: getting a job in <b><i>Data Analytics</i></b>
+- 💬 Ask me about: Football ⚽ 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/avishek-choudhary">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
