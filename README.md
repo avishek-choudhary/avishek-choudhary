@@ -107,7 +107,7 @@
 - 🔭 I’m currently working on: <i><a href="https://github.com/avishek-choudhary/Zoom-Electric">Zoom EV Sales Analysis</a></i>
 - 🌱 I’m currently learning: <b><i>ML/DL</i></b> 
 - 👯 I’m looking to collaborate on: <b><i>Open Source Project</i></b>
-- 🤔 I’m looking for help with: getting a job in <b><i>Data Analytics</i></b>
+- 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
 - 💬 Ask me about: Football ⚽ 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/avishek-choudhary">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
