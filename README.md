@@ -96,8 +96,9 @@
   <a href="https://github.com/avishek-choudhary">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avishek-choudhary&theme=transparent" />
   </a>
+    </br>
   <a href="https://github.com/avishek-choudhary">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut-vertical&lang_count=8&htmlColor=orange&sqlColor=blue&hide=&theme=transparent&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut-vertical&lang_count=8&html_color=orange&sql_color=blue&hide=&theme=transparent&hide_border=true&card_width=338&size_weight=0&count_weight=1"/>
   </a>
 </p>
 </details>
